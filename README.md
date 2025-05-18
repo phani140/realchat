@@ -42,35 +42,29 @@ This is a simple real-time chat application built with **Spring Boot**, **WebSoc
 ├── pom.xml
 └── README.md
 
-yaml
-Copy
-Edit
+
 
 ---
 
 ## ⚙️ Getting Started
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/your-username/real-time-chat-app.git
 cd real-time-chat-app
 2. Build and Run the Application
 Make sure you have Java and Maven installed.
 
-bash
-Copy
-Edit
+
 mvn spring-boot:run
 The application will start on:
-http://localhost:8080/chat
+http://localhost:1245/chat
 
 3. Open in Browser
 Access the chat UI:
 
-bash
-Copy
-Edit
-http://localhost:8080/chat
+
+http://localhost:1245/chat
 Open multiple tabs or browsers to test real-time communication.
 
 🧪 Testing the Application
